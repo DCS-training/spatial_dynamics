@@ -22,7 +22,7 @@ The csv and the gis_data folder are exercise files that you will need for the ex
 ## R and RStudio 
 ### For R On Noteable
 
-1. Go to (https://noteable.edina.ac.uk/login)[https://noteable.edina.ac.uk/login]
+1. Go to [https://noteable.edina.ac.uk/login](https://noteable.edina.ac.uk/login)
 2. Login with your EASE credentials
 3. Select RStudio as a personal notebook server and press start
 4. Go to File > New Project> Version Control > Git
@@ -34,14 +34,14 @@ Congratulations you have now pulled the content of the repository on your Notabl
 ### Install it locally
 
 #### If you have administrative rights of your laptop 
-1. Go to (https://www.r-project.org/)[https://www.r-project.org/]
+1. Go to [https://www.r-project.org/](https://www.r-project.org/)
 2. Go to the download link
 3. Choose your CRAN mirror nearer to your location (either Bristol or Imperial College London)
 4. Download the correspondent version depending if you are using Windows Mac or Linux
-- For Windows click on install R for the first time. Then download R for Windows and follow the installation widget. If you get stuck follow this (video tutorial)[https://www.youtube.com/watch?v=GAGUDL-4aVw]
-- For Mac Download the most recent pkg file and follow the installation widget. If you get stuck follow this (video tutorial)[https://www.youtube.com/watch?v=EmZqlcKkJMM]
+- For Windows click on install R for the first time. Then download R for Windows and follow the installation widget. If you get stuck follow this [video tutorial](https://www.youtube.com/watch?v=GAGUDL-4aVw)
+- For Mac Download the most recent pkg file and follow the installation widget. If you get stuck follow this [video tutorial](https://www.youtube.com/watch?v=EmZqlcKkJMM)
 5. Once R is installed you can install R studio (R interface)
-6. Go to (www.rstudio.com)[www.rstudio.com]
+6. Go to [www.rstudio.com](www.rstudio.com)
 7. Go in download
 8. Download the correspondent version depending on your Operating system and install it. If you get stuck check the videos linked above. 
 
@@ -52,7 +52,7 @@ Congratulations you have now pulled the content of the repository on your Notabl
 NB this will take quite some time so make sure to do it ahead of the first class
 
 ## Q GIS
-You will need QGIS installed on your machine (the current Long-Term Release is version 3.10.10 ‘A Coruna’). You can download and install it from (https://qgis.org/)[https://qgis.org/].
+You will need QGIS installed on your machine (the current Long-Term Release is version 3.10.10 ‘A Coruna’). You can download and install it from [https://qgis.org/](https://qgis.org/).
 
 
 
