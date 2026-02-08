@@ -13,8 +13,8 @@ To access the course materials, please download all folders and files from the r
 -  .ppt presentations used during the course
 -  example code (R_Script_v2)
 -  gis file (project_v2.qgz)
--  shapefile (Boundary for determining the extent of analysis)
--  shapefile (bike_theft_2023 for performing the analysis)
+-  shapefile (Edinburgh_Council_Boundary.shp in gis_data_v2.zip containing boundaries)
+-  shapefile (Trees.shp in gis_data_v2.zip for performing the analysis)
 
 The csv and the gis_data folder are exercise files that you will need for the exercise. Project.qgz is the file for performing KDE and NNA. To read the shapefiles in Project.qgz, please unzip the zipped folder and keep the name as gis_data, which is the name of the reference folder path in Project.qgz. The SpatialDynamics R file contains the codes for performing Ripley's K-Function. The powerpoint has a summary of the presentation in class and contains descriptions for the fundamentals regarding point pattern analysis and their applications. We hope you will find the course useful.
 
