@@ -11,8 +11,8 @@ To access the course materials, please download all folders and files from the r
 
 # What you are going to find in this repo
 -  .ppt presentations used during the course
--  example code (Spatial Dynamics)
--  gis file (project.qgz)
+-  example code (R_Script_v2)
+-  gis file (project_v2.qgz)
 -  shapefile (Boundary for determining the extent of analysis)
 -  shapefile (bike_theft_2023 for performing the analysis)
 
